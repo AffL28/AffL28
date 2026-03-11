@@ -1,16 +1,28 @@
-## Hi there 👋
+# Hi, I'm André Lavradas 👋
 
-<!--
-**AffL28/AffL28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+📊 Data Analyst | Python | SQL | Power BI | Tableau
 
-Here are some ideas to get you started:
+I'm a junior Data Analyst with certified training in Data Analytics and hands-on experience working with data using Python, SQL, Power BI and Tableau.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I enjoy transforming raw data into meaningful insights that support data-driven decision making. My main interests are in Business Intelligence, data visualization and analyzing business metrics to identify patterns and trends.
+
+My previous background in Social Education helped me develop strong communication, organization and critical thinking skills, which I now apply when interpreting data and communicating insights.
+
+---
+
+## 🛠 Technical Skills
+
+- Python  
+- SQL  
+- Power BI  
+- Tableau  
+- Data Visualization  
+- Exploratory Data Analysis  
+- Dashboards  
+- Business Intelligence
+
+---
+
+## 📫 Connect with me
+
+LinkedIn: https://www.linkedin.com  
